@@ -17,6 +17,6 @@
 
 🔍 [Cloud] AWS (EC2, Lambda, API Gateway, RDS, DynamoDB, etc.), Firebase, Azure
 
-📗 [Language] Python, JavaScript, Typescript,   
+📗 [Language] Python, JavaScript, Typescript  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
