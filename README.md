@@ -19,5 +19,4 @@
 
 📗 [Language] Python, JavaScript, Typescript,   
 
-![James' github stats](https://github-readme-stats.vercel.app/api?username=jyoo&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
