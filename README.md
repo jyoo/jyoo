@@ -11,12 +11,12 @@
 
 ## Hi, I'm a full-stack developer who loves web, technology and investment.
 
+📗 JavaScript, TypeScript, Python, SQL
+
 🖥 React, React Native, Flutter
 
-⚙️ Express, Django
+🔍 AWS, GCP / Firebase, DigitalOcean
 
-🔍 AWS, DigitalOcean, Firebase
-
-📗 Python, SQL, JavaScript, TypeScript, C 
+💾 PostgreSQL / PostGIS, MySQL, MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
