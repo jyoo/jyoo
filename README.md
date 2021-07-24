@@ -11,7 +11,7 @@
 
 ## Hi, I'm a full-stack developer who loves web, technology and investment.
 
-📗 JavaScript, TypeScript, Python, SQL
+📗 JavaScript, TypeScript, Python
 
 🖥 React, React Native, Flutter
 
@@ -19,5 +19,4 @@
 
 💾 PostgreSQL / PostGIS, MySQL, MongoDB
 
-![snake gif](https://github.com/jyoo/jyoo/blob/output/github-contribution-grid-snake.svg)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
