@@ -5,7 +5,7 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&link=https://www.jyoo.dev)](https://www.jyoo.dev)
 
 
-## James Yoo - Software engineer at Deltek | Replicon
+## James Yoo - Software engineer (SRE) at Deltek | Replicon
 
 📗 JavaScript, TypeScript, Python
 
